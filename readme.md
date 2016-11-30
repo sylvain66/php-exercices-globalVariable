@@ -1,7 +1,7 @@
 #PHP - Variables superglobales, sessions et cookies
 Dans tous les exercices, il faudra faire une page HTML 5 valide et soigner son CSS.
 ##Exercice 1
-Faire une page HTML permettant de donner à l'utilisateur :
+Faire une page avec un index.php et un document HTML permettant de donner à l'utilisateur :
 - son User Agent
 - son adresse ip
 - le nom du serveur
