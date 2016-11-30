@@ -1,3 +1,24 @@
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/exo1.php
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/exo2.css
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/exo3.php
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/exo4.php
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/exo5.php
+
+https://rawgit.com/sylvain66/php-exercices-globalVariable/master/page2.php
+
+
+
+
+
+
+
+
+
 #PHP - Variables superglobales, sessions et cookies
 Dans tous les exercices, il faudra faire une page HTML 5 valide et soigner son CSS.
 ##Exercice 1
