@@ -1,0 +1,30 @@
+
+body{
+   background-color: gray;
+   color: red;
+}
+form{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+h1{
+   text-align: center;
+}
+.login{
+  background-color: yellow;
+  border-radius: 10px 10px;
+  color: red;
+}
+.mdp{
+  background-color: yellow;
+  border-radius: 10px 10px;
+  color: red;
+}
+.btn{
+  background-color: yellow;
+  border-radius: 7px 7px;
+  margin-top: 10px;
+  color: red;
+}
